@@ -1,6 +1,7 @@
-<h3 align="center">I'm a newbie programmer, but I will get better</h3>
+<h2 algin="center"> Hi , There 👋</h2>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">I'm a newbie programmer, but I will get better</h3>
+
 <p align="left">
 </p>
 
